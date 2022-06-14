@@ -16,8 +16,10 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
+- [Figma Link](#figma-link)
 - [Features](#features)
 - [Authors](#authors)
+
 
 
 <!-- OVERVIEW -->
@@ -35,6 +37,10 @@ A Twitter clone project from devchallenge
 - [React](https://reactjs.org/)
 - [Flask](https://flask.palletsprojects.com/en/2.1.x/)
 - [Tailwind](https://tailwindcss.com/)
+
+## Figma Link
+
+https://www.figma.com/file/xxf4TG14lpF3vFUbBtEZUR
 
 ## Features
 
